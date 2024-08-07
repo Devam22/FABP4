@@ -11,3 +11,4 @@ The repositaory contains the following files.
 Flow chart:
 
 ![untitled (1)](https://github.com/user-attachments/assets/c2a86ce1-0a45-450e-9f1c-e143e0ea3321)
+![Screenshot 2024-08-07 135956](https://github.com/user-attachments/assets/b0ef6855-0ff1-40c9-8f0e-c6fa7385454e)
